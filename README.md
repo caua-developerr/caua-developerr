@@ -9,24 +9,24 @@
 ## **My profile stats here:**
 <div align="center">
   <a href="https://github.com/caua-developerr">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caua-developer&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caua-developerr&theme=slateorange" />
   </a>
   
   </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-developer&langs_count=8&theme=great-gatsby" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-developerr&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
 <div align="center">
   <a href="https://github.com/caua-developer">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=caua-developer&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=caua-developerr&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
   
 </div>
   
 <div align="center">
-  <a href="https://github.com/caua-developer">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caua-developer&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caua-developer&theme=slateorange" />
+  <a href="https://github.com/caua-developerr">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caua-developerr&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caua-developerr&theme=slateorange" />
   </a>
 </div>
 
@@ -39,28 +39,28 @@
 </div>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/caua-developer">
+  <a href="https://github.com/caua-developerr">
     <img src="https://img.shields.io/badge/Languages:-orange" />
   </a>
 </p>
 </div>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/caua-developer?tab=repositories">
+  <a href="https://github.com/caua-developerr?tab=repositories">
     <img src="https://skillicons.dev/icons?i=css,html,js" />
   </a>
 </p>
 </div>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/caua-developer">
+  <a href="https://github.com/caua-developerr">
     <img src="https://img.shields.io/badge/Development:-orange" />
   </a>
 </p>
 </div>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/caua-developer?tab=repositories">
+  <a href="https://github.com/caua-developerr?tab=repositories">
     <img src="https://skillicons.dev/icons?i=vscode" /> 
   </a>
 </p>
