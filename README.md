@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-developerr&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
 <div align="center">
-  <a href="https://github.com/caua-developer">
+  <a href="https://github.com/caua-developeer">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=caua-developerr&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
   
